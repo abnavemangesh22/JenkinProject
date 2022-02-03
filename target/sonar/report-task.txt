@@ -1,0 +1,6 @@
+projectKey=lu.amazon.aws.demo:WebApp
+serverUrl=http://20.204.29.93:49160
+serverVersion=6.7.0.33306
+dashboardUrl=http://20.204.29.93:49160/dashboard/index/lu.amazon.aws.demo:WebApp
+ceTaskId=AX6_q8D_PbPJ2MivT7U8
+ceTaskUrl=http://20.204.29.93:49160/api/ce/task?id=AX6_q8D_PbPJ2MivT7U8
